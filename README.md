@@ -11,3 +11,13 @@ Find in this project a TeidePlus.jar.
 Sample experiments can be found at https://goo.gl/Pu76SU. Download the file and unzip a scenario, inside there are required steps to obtain the results.
 
 
+## Authors
+ * **[Andrea Cimmino](http://www.tdg-seville.info/acimmino/Home)**
+
+## License
+
+This project is licensed under TDG's License - visit http://www.tdg-seville.info/license.html for details
+
+## Acknowledgments
+ * Special thanks to [Dr. Rafael Corchuelo](http://www.tdg-seville.info/corchu/Home)
+ * Spanish R&D programme (grants TIN2013-40848-R and TIN2013-40848-R)
